@@ -12,7 +12,7 @@ This is the code of the FundMe project from the Cyfrin Solidity Course.
   - [Deploy](#deploy)
   - [Testing](#testing)
     - [Test Coverage](#test-coverage)
-- [To add in your .env](#env)
+- [To add in your .env](#to-add-in-your-env)
 
 
 # Getting Started
