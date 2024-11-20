@@ -12,7 +12,6 @@ This is the code of the FundMe project from the Cyfrin Solidity Course.
   - [Deploy](#deploy)
   - [Testing](#testing)
     - [Test Coverage](#test-coverage)
-
 - [To add in your .env](#env)
 
 
@@ -82,6 +81,7 @@ forge coverage
 ```
 
 ### To add in your .env
+```
 1. Local Anvil RPC URL
 2. Sepolia RPC URL (Alchemy for example)
 3. Base Sepolia URL (Alchemy also)
@@ -89,3 +89,5 @@ forge coverage
 5. Etherscan API key
 
 Note: For the deployment using the makefile, Foundry accounts has been used without adding the Private Key to the .env file.
+
+```
