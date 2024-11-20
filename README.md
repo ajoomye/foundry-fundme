@@ -29,8 +29,8 @@ This is the code of the FundMe project from the Cyfrin Solidity Course.
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-cu
-cd foundry-fund-me-cu
+git clone https://github.com/ajoomye/foundry-fundme
+cd foundry-fundme
 make
 ```
 
